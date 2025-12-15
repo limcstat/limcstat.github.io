@@ -88,7 +88,7 @@ subtitle: Members of the lab
   </div>
   <div class="text-container">
     <a class="name" href="/people/hyungyeong/">HyunGyeong Hong</a>
-    <p>M.S. Student (2025~)</p>
+    <p>M.S. Student (2024~)</p>
   </div>
 </div>
 
