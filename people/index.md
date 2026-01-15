@@ -9,7 +9,7 @@ subtitle: Members of the lab
 
 <div class="prof-container">
   <div class="image-container">
-    <img src="/people/chaeyoung/files/chaeyoung.jpg" alt="Chae Young Lim">
+    <img src="/people/chaeyoung/files/chaeyoung.jpg" alt="Chaeyoung Lim">
   </div>
   <div class="text-container">
     <a class="name" href="/about/">Chae Young Lim</a>
@@ -74,20 +74,20 @@ subtitle: Members of the lab
 
 <div class="person-container">
   <div class="image-container">
-    <img src="/people/jungwoo/files/jungwoo.jpg" alt="JungWoo Lee">
+    <img src="/people/jungwoo/files/jungwoo.jpg" alt="Jungwoo Lee">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/jungwoo/">JungWoo Lee</a>
+    <a class="name" href="/people/jungwoo/">Jungwoo Lee</a>
     <p>Ph.D. Student (2025~)</p>
   </div>
 </div>
 
 <div class="person-container">
   <div class="image-container">
-    <img src="/people/hyungyeong/files/hyungyeong.jpg" alt="HyunGyeong Hong">
+    <img src="/people/hyungyeong/files/hyungyeong.jpg" alt="Hyungyeong Hong">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/hyungyeong/">HyunGyeong Hong</a>
+    <a class="name" href="/people/hyungyeong/">Hyungyeong Hong</a>
     <p>M.S. Student (2024~)</p>
   </div>
 </div>
@@ -98,6 +98,16 @@ subtitle: Members of the lab
   </div>
   <div class="text-container">
     <a class="name" href="/people/yunseo/">Yunseo Chu</a>
+    <p>M.S. Student (2025~)</p>
+  </div>
+</div>
+
+<div class="person-container">
+  <div class="image-container">
+    <img src="/people/hyunyoung/files/hyunyoung.jpg" alt="Hyunyoung Yu">
+  </div>
+  <div class="text-container">
+    <a class="name" href="/people/hyunyoung/">Hyunyoung Yu</a>
     <p>M.S. Student (2025~)</p>
   </div>
 </div>
