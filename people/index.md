@@ -53,27 +53,6 @@ subtitle: Members of the lab
 
 <div class="person-container">
   <div class="image-container">
-    <img src="/people/gooyoung/files/gooyoung.jpg" alt="Gooyoung Kim">
-  </div>
-  <div class="text-container">
-    <a class="name" href="/people/gooyoung/">Gooyoung Kim</a>
-    <p>M.S. Student (2024~)</p>
-  </div>
-</div>
-
-
-<div class="person-container">
-  <div class="image-container">
-    <img src="/people/heonjeong/files/heonjeong.jpg" alt="Heonjeong Kwon">
-  </div>
-  <div class="text-container">
-    <a class="name" href="/people/heonjeong/">Heonjeong Kwon</a>
-    <p>M.S. Student (2024~)</p>
-  </div>
-</div>
-
-<div class="person-container">
-  <div class="image-container">
     <img src="/people/jungwoo/files/jungwoo.jpg" alt="Jungwoo Lee">
   </div>
   <div class="text-container">
@@ -129,6 +108,17 @@ subtitle: Members of the lab
   </thead>
   <tbody>
 
+
+  <tr>
+      <td> HeonJeong Kwon </td>
+      <td>MS. 2025</td>
+      <td>Hyundai Marine & Fire Insurance </td>
+  </tr>
+<tr>
+      <td> GooYoung Kim </td>
+      <td>MS. 2025</td>
+      <td>Samsung Electronics </td>
+  </tr>
   <tr>
       <td> MongJu Jeong </td>
       <td>MS. 2020<br>Ph.D. 2025</td>
