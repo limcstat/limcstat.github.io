@@ -104,7 +104,7 @@ subtitle: Members of the lab
 
 <div class="person-container">
   <div class="image-container">
-    <img src="/people/yunseo/files/hyunyoung.jpg" alt="Hyunyoung Yu">
+    <img src="/people/hyunyoung/files/hyunyoung.jpg" alt="Hyunyoung Yu">
   </div>
   <div class="text-container">
     <a class="name" href="/people/hyunyoung/">Hyunyoung Yu</a>
