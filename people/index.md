@@ -43,7 +43,7 @@ subtitle: Members of the lab
 
 <div class="person-container">
   <div class="image-container">
-    <img src="/people/changseok/files/changseok.png" alt="Changseok Lee">
+    <img src="/people/changseok/files/changseok.jpg" alt="Changseok Lee">
   </div>
   <div class="text-container">
     <a class="name" href="/people/changseok/">Changseok Lee</a>
