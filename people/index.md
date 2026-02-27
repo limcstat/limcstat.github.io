@@ -111,12 +111,12 @@ subtitle: Members of the lab
 
   <tr>
       <td> HeonJeong Kwon </td>
-      <td>MS. 2025</td>
+      <td>MS. 2026</td>
       <td>Hyundai Marine & Fire Insurance </td>
   </tr>
 <tr>
       <td> GooYoung Kim </td>
-      <td>MS. 2025</td>
+      <td>MS. 2026</td>
       <td>Samsung Electronics </td>
   </tr>
   <tr>
