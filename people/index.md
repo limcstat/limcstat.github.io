@@ -244,6 +244,13 @@ subtitle: Members of the lab
     margin-bottom: 20px;
   }
 
+  .postdoc-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
   .person-box {
     display: flex;
     flex-wrap: wrap;
