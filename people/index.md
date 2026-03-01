@@ -17,19 +17,20 @@ subtitle: Members of the lab
   </div>
 </div>
 
-<h1>Students</h1>
-<div class="person-box">
+<h1>Post Doc</h1>
 
-<div class="person-container">
+<div class="postdoc-container">
   <div class="image-container">
     <img src="/people/jinu/files/jinu.jpg" alt="Jin U Soh">
   </div>
   <div class="text-container">
     <a class="name" href="/people/jinu/">Jin U Soh</a>
-    <p>Ph.D. Student(2021~)</p>
-    <p>MS. (2019~2021)</p>
+    <p>Post Doc (2026~)</p>
   </div>
 </div>
+
+<h1>Students</h1>
+<div class="person-box">
 
 <div class="person-container">
   <div class="image-container">
@@ -107,7 +108,12 @@ subtitle: Members of the lab
     </tr>
   </thead>
   <tbody>
-
+  
+  <tr>
+    <td> JinU Soh </td>
+    <td>MS. 2021<br>Ph.D. 2026</td>
+    <td>Postdoctoral Researcher , Seoul National University </td>
+  </tr>
 
   <tr>
       <td> HeonJeong Kwon </td>
@@ -170,17 +176,13 @@ subtitle: Members of the lab
       <td>Ph.D. 2022</td>
       <td>LINE Plus Corp.</td>
     </tr>
-  <tr>
-      <td>JinU Soh</td>
-      <td>MS. 2021</td>
-      <td>Ph.D. student in Seoul National University</td>
-    </tr>
+ 
    <tr>
       <td>YoonBae Jun</td>
       <td>Ph.D. 2021</td>
       <td>Assistant Professor, School of Public Health, University of Nevada, Reno, USA</td>
     </tr>
-<tr>
+    <tr>
       <td>Elias Wennberg</td>
       <td>MS. 2020</td>
       <td>Data science lead in Bluebird Media</td>
