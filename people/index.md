@@ -37,7 +37,7 @@ subtitle: Members of the lab
     <img src="/people/yeongseob/files/yeongseob.jpg" alt="Yeongseob Oh">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/yeongseob/">Yeongseob Oh</a>
+    <a class="name" href="/people/yeongseob/">YeongSeob Oh</a>
     <p>Ph.D. Student (2022~)</p>
   </div>
 </div>
@@ -47,7 +47,7 @@ subtitle: Members of the lab
     <img src="/people/changseok/files/changseok.jpg" alt="Changseok Lee">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/changseok/">Changseok Lee</a>
+    <a class="name" href="/people/changseok/">ChangSeok Lee</a>
     <p>Ph. D. Student (2023~)</p>
   </div>
 </div>
@@ -57,7 +57,7 @@ subtitle: Members of the lab
     <img src="/people/jungwoo/files/jungwoo.jpg" alt="Jungwoo Lee">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/jungwoo/">Jungwoo Lee</a>
+    <a class="name" href="/people/jungwoo/">JungWoo Lee</a>
     <p>Ph.D. Student (2025~)</p>
   </div>
 </div>
@@ -67,7 +67,7 @@ subtitle: Members of the lab
     <img src="/people/hyungyeong/files/hyungyeong.jpg" alt="Hyungyeong Hong">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/hyungyeong/">Hyungyeong Hong</a>
+    <a class="name" href="/people/hyungyeong/">HyunGyeong Hong</a>
     <p>M.S. Student (2024~)</p>
   </div>
 </div>
@@ -77,7 +77,7 @@ subtitle: Members of the lab
     <img src="/people/yunseo/files/yunseo.jpg" alt="Yunseo Chu">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/yunseo/">Yunseo Chu</a>
+    <a class="name" href="/people/yunseo/">YunSeo Chu</a>
     <p>M.S. Student (2025~)</p>
   </div>
 </div>
@@ -87,8 +87,18 @@ subtitle: Members of the lab
     <img src="/people/hyunyoung/files/hyunyoung.jpg" alt="Hyunyoung Yu">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/hyunyoung/">Hyunyoung Yu</a>
+    <a class="name" href="/people/hyunyoung/">HyunYoung Yu</a>
     <p>M.S. Student (2025~)</p>
+  </div>
+</div>
+
+<div class="person-container">
+  <div class="image-container">
+    <img src="/people/siyoung/files/siyoung.jpg" alt="Siyoung Hong">
+  </div>
+  <div class="text-container">
+    <a class="name" href="/people/siyoung/">SiYoung Hong</a>
+    <p>Ph.D. Student (2026~)</p>
   </div>
 </div>
 </div>
