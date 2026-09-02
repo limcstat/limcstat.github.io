@@ -286,7 +286,7 @@ subtitle: Members of the lab
   .person-container {
     display: flex;
     align-items: center;
-    justify-content: flex-start; /* Keeps content left-aligned within each .person-container */
+    justify-content: center; /* Keeps content left-aligned within each .person-container */
     width: calc(50% - 10px); /* Adjust width as needed, accounting for the gap */
     margin-bottom: 20px;
   }
