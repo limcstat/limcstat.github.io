@@ -351,10 +351,16 @@ table, th, td {
   }
 
   th, td {
-    height: 40px; /* Set the height of table cells to 40px */
+    height: 40px;
     padding: 10px;
     text-align: left;
-    white-space: nowrap; /* Prevent text wrapping */
+  }
+
+  th:nth-child(1),
+  td:nth-child(1),
+  th:nth-child(2),
+  td:nth-child(2) {
+    white-space: nowrap;
   }
 
   th {
