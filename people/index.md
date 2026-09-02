@@ -38,7 +38,7 @@ subtitle: Members of the lab
   </div>
   <div class="text-container">
     <a class="name" href="/people/yeongseob/">Yeongseob Oh</a>
-    <p>Ph.D. Student (2022~)</p>
+    <p>Ph.D. Student, 2022 - </p>
   </div>
 </div>
 
@@ -48,7 +48,7 @@ subtitle: Members of the lab
   </div>
   <div class="text-container">
     <a class="name" href="/people/changseok/">Changseok Lee</a>
-    <p>Ph. D. Student (2023 -)</p>
+    <p>Ph. D. Student, 2023 - </p>
   </div>
 </div>
 
@@ -58,7 +58,7 @@ subtitle: Members of the lab
   </div>
   <div class="text-container">
     <a class="name" href="/people/jungwoo/">Jungwoo Lee</a>
-    <p>Ph.D. Student (2025 -)</p>
+    <p>Ph.D. Student, 2025 - </p>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ subtitle: Members of the lab
   </div>
   <div class="text-container">
     <a class="name" href="/people/hyungyeong/">Hyungyeong Hong</a>
-    <p>Ph.D. Student (2026 -)</p>
+    <p>Ph.D. Student, 2026 - </p>
   </div>
 </div>
 
@@ -78,7 +78,7 @@ subtitle: Members of the lab
   </div>
   <div class="text-container">
     <a class="name" href="/people/siyoung/">Siyoung Hong</a>
-    <p>Ph.D. Student (2026 -)</p>
+    <p>Ph.D. Student, 2026 - </p>
   </div>
 </div>
 
@@ -88,7 +88,7 @@ subtitle: Members of the lab
   </div>
   <div class="text-container">
     <a class="name" href="/people/yunseo/">Yunseo Chu</a>
-    <p>M.S. Student (2025 -)</p>
+    <p>M.S. Student, 2025 - </p>
   </div>
 </div>
 
@@ -98,7 +98,7 @@ subtitle: Members of the lab
   </div>
   <div class="text-container">
     <a class="name" href="/people/hyunyoung/">Hyunyoung Yu</a>
-    <p>M.S. Student (2025 -)</p>
+    <p>M.S. Student, 2025 - </p>
   </div>
 </div>
 
@@ -109,7 +109,7 @@ subtitle: Members of the lab
   </div>
   <div class="text-container">
     <a class="name" href="/people/jaeyun/">Jaeyun Choi</a>
-    <p>M.S. Student (2026 -)</p>
+    <p>M.S. Student, 2026 - </p>
   </div>
 </div>
 
