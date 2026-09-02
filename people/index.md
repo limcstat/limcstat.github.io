@@ -21,10 +21,10 @@ subtitle: Members of the lab
 
 <div class="postdoc-container">
   <div class="image-container">
-    <img src="/people/jinu/files/jinu.jpg" alt="Jin U Soh">
+    <img src="/people/jinu/files/jinu.jpg" alt="Jinu Soh">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/jinu/">Jin U Soh</a>
+    <a class="name" href="/people/jinu/">Jinu Soh</a>
     <p>Post Doc (2026~)</p>
   </div>
 </div>
@@ -37,7 +37,7 @@ subtitle: Members of the lab
     <img src="/people/yeongseob/files/yeongseob.jpg" alt="Yeongseob Oh">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/yeongseob/">YeongSeob Oh</a>
+    <a class="name" href="/people/yeongseob/">Yeongseob Oh</a>
     <p>Ph.D. Student (2022~)</p>
   </div>
 </div>
@@ -47,8 +47,8 @@ subtitle: Members of the lab
     <img src="/people/changseok/files/changseok.jpg" alt="Changseok Lee">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/changseok/">ChangSeok Lee</a>
-    <p>Ph. D. Student (2023~)</p>
+    <a class="name" href="/people/changseok/">Changseok Lee</a>
+    <p>Ph. D. Student (2023 -)</p>
   </div>
 </div>
 
@@ -57,8 +57,8 @@ subtitle: Members of the lab
     <img src="/people/jungwoo/files/jungwoo.jpg" alt="Jungwoo Lee">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/jungwoo/">JungWoo Lee</a>
-    <p>Ph.D. Student (2025~)</p>
+    <a class="name" href="/people/jungwoo/">Jungwoo Lee</a>
+    <p>Ph.D. Student (2025 -)</p>
   </div>
 </div>
 
@@ -67,28 +67,8 @@ subtitle: Members of the lab
     <img src="/people/hyungyeong/files/hyungyeong.jpg" alt="Hyungyeong Hong">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/hyungyeong/">HyunGyeong Hong</a>
-    <p>M.S. Student (2024~)</p>
-  </div>
-</div>
-
-<div class="person-container">
-  <div class="image-container">
-    <img src="/people/yunseo/files/yunseo.jpg" alt="Yunseo Chu">
-  </div>
-  <div class="text-container">
-    <a class="name" href="/people/yunseo/">YunSeo Chu</a>
-    <p>M.S. Student (2025~)</p>
-  </div>
-</div>
-
-<div class="person-container">
-  <div class="image-container">
-    <img src="/people/hyunyoung/files/hyunyoung.jpg" alt="Hyunyoung Yu">
-  </div>
-  <div class="text-container">
-    <a class="name" href="/people/hyunyoung/">HyunYoung Yu</a>
-    <p>M.S. Student (2025~)</p>
+    <a class="name" href="/people/hyungyeong/">Hyungyeong Hong</a>
+    <p>Ph.D. Student (2026 -)</p>
   </div>
 </div>
 
@@ -97,14 +77,43 @@ subtitle: Members of the lab
     <img src="/people/siyoung/files/siyoung.jpg" alt="Siyoung Hong">
   </div>
   <div class="text-container">
-    <a class="name" href="/people/siyoung/">SiYoung Hong</a>
-    <p>Ph.D. Student (2026~)</p>
+    <a class="name" href="/people/siyoung/">Siyoung Hong</a>
+    <p>Ph.D. Student (2026 -)</p>
   </div>
 </div>
+
+<div class="person-container">
+  <div class="image-container">
+    <img src="/people/yunseo/files/yunseo.jpg" alt="Yunseo Chu">
+  </div>
+  <div class="text-container">
+    <a class="name" href="/people/yunseo/">Yunseo Chu</a>
+    <p>M.S. Student (2025 -)</p>
+  </div>
+</div>
+
+<div class="person-container">
+  <div class="image-container">
+    <img src="/people/hyunyoung/files/hyunyoung.jpg" alt="Hyunyoung Yu">
+  </div>
+  <div class="text-container">
+    <a class="name" href="/people/hyunyoung/">Hyunyoung Yu</a>
+    <p>M.S. Student (2025 -)</p>
+  </div>
 </div>
 
 
+<div class="person-container">
+  <div class="image-container">
+    <img src="/people/jaeyun/files/jaeyun.jpg" alt="Jaeyun Choi">
+  </div>
+  <div class="text-container">
+    <a class="name" href="/people/jaeyun/">Jaeyun Choi</a>
+    <p>M.S. Student (2026 -)</p>
+  </div>
+</div>
 
+</div>
 
 
 <h1>Alumni</h1>
@@ -118,67 +127,73 @@ subtitle: Members of the lab
     </tr>
   </thead>
   <tbody>
+
+  <tr>
+    <td> Hyungyeong Hong </td>
+    <td>M.S. 2026</td>
+    <td>Ph.D. Student, Seoul National University </td>
+  </tr>
   
   <tr>
-    <td> JinU Soh </td>
-    <td>MS. 2021<br>Ph.D. 2026</td>
-    <td>Postdoctoral Researcher , Seoul National University </td>
+    <td> Jinu Soh </td>
+    <td>M.S. 2021<br>Ph.D. 2026</td>
+    <td>Postdoctoral Researcher, Seoul National University </td>
   </tr>
 
   <tr>
-      <td> HeonJeong Kwon </td>
-      <td>MS. 2026</td>
+      <td> Heonjeong Kwon </td>
+      <td>M.S. 2026</td>
       <td>Hyundai Marine & Fire Insurance </td>
   </tr>
 <tr>
-      <td> GooYoung Kim </td>
-      <td>MS. 2026</td>
+      <td> Gooyoung Kim </td>
+      <td>M.S. 2026</td>
       <td>Samsung Electronics </td>
   </tr>
   <tr>
-      <td> MongJu Jeong </td>
-      <td>MS. 2020<br>Ph.D. 2025</td>
+      <td> Mongju Jeong </td>
+      <td>M.S. 2020<br>Ph.D. 2025</td>
       <td>Samsung SDS </td>
   </tr>
  <tr>
-      <td>DangChan Kim</td>
-      <td>MS. 2025</td>
+      <td>Dangchan Kim</td>
+      <td>M.S. 2025</td>
       <td>Korea National Police Agency</td>
     </tr>
 
   <tr>
-    <td> KyeongEun Kim </td>
-    <td>MS. 2019<br>Ph.D. 2024</td>
+    <td> Kyeongeun Kim </td>
+    <td>M.S. 2019<br>Ph.D. 2024</td>
     <td>LG Energy Solution </td>
   </tr>
     <tr>
-      <td>SuJung Kim</td>
-      <td>MS. 2024</td>
+      <td>Sujung Kim</td>
+      <td>M.S. 2024</td>
       <td>Samsung Electronics</td>
     </tr>
  <tr>
-      <td>SuJeong Jin</td>
-      <td>MS. 2024</td>
+      <td>Sujeong Jin</td>
+      <td>M.S. 2024</td>
       <td>Samsung Electronics</td>
     </tr>
  <tr>
-      <td>SongHyun Kim</td>
+      <td>Songhyun Kim</td>
       <td>Ph.D. 2024</td>
       <td>Presto Labs</td>
     </tr>
 <tr>
-      <td>TaeJun Park</td>
-      <td>MS. 2023</td>
+      <td>Taejun Park</td>
+      <td>M.S. 2023</td>
       <td>Samsung Electronics</td>
     </tr>
    <tr>
-      <td>JoonHo Shin</td>
+      <td>Joonho Shin</td>
       <td>Ph.D. 2023</td>
       <td>Assistant Professor, Sungshin Women's University</td>
     </tr>
     <tr>
       <td>Sangmin Jin</td>
-      <td>MS. 2022</td>
+      <td>M.S. 2022</td>
       <td>Korea Credit Bureau</td>
     </tr>
     <tr>
@@ -188,43 +203,43 @@ subtitle: Members of the lab
     </tr>
  
    <tr>
-      <td>YoonBae Jun</td>
+      <td>Yoonbae Jun</td>
       <td>Ph.D. 2021</td>
       <td>Assistant Professor, School of Public Health, University of Nevada, Reno, USA</td>
     </tr>
     <tr>
       <td>Elias Wennberg</td>
-      <td>MS. 2020</td>
+      <td>M.S. 2020</td>
       <td>Data science lead in Bluebird Media</td>
     </tr>
     <tr>
-      <td>HyunSeok Yang</td>
-      <td>MS. 2020</td>
+      <td>Hyunseok Yang</td>
+      <td>M.S. 2020</td>
       <td>Samsung Electronics</td>
     </tr>
     <tr>
-      <td>EunSeong Bae</td>
-      <td>MS. 2019</td>
+      <td>Eunseong Bae</td>
+      <td>M.S. 2019</td>
       <td>Ph.D. student in University of California, Davis</td>
     </tr>
     <tr>
-      <td>YuJin Shin</td>
-      <td>MS. 2018</td>
+      <td>Yujin Shin</td>
+      <td>M.S. 2018</td>
       <td>Korea Credit Bureau</td>
     </tr>
      <tr>
-      <td>EunTaeg Go</td>
-      <td>MS. 2018</td>
+      <td>Euntaeg Go</td>
+      <td>M.S. 2018</td>
       <td>Samsung Electronics</td>
     </tr>
    <tr>
-      <td>MinWoo Kim</td>
-      <td>MS. 2017</td>
+      <td>Minwoo Kim</td>
+      <td>M.S. 2017</td>
       <td>Assistant Professor, Pusan National University</td>
     </tr>
     <tr>
-      <td>SukHwan Kim</td>
-      <td>MS. 2017</td>
+      <td>Sukhwan Kim</td>
+      <td>M.S. 2017</td>
       <td>NICE Information Service</td>
     </tr>
      <tr>
