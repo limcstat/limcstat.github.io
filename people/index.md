@@ -277,18 +277,28 @@ subtitle: Members of the lab
   }
 
   .person-box {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center; /* Center the .person-container elements */
-    gap: 20px; /* Optional: Adds space between the containers */
+    display: grid;
+    grid-template-columns: repeat(2, 320px);
+    justify-content: center;
+    gap: 20px 60px;
   }
 
   .person-container {
     display: flex;
     align-items: center;
-    justify-content: center; /* Keeps content left-aligned within each .person-container */
-    width: calc(50% - 10px); /* Adjust width as needed, accounting for the gap */
+    justify-content: flex-start;
+    width: 100%;
     margin-bottom: 20px;
+  }
+
+  @media (max-width: 768px) {
+    .person-box {
+      grid-template-columns: 1fr;
+    }
+
+    .person-container {
+      justify-content: center;
+    }
   }
 
   .image-container {
