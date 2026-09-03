@@ -4,9 +4,19 @@ layout: base
 
 {% include header.html type="page" %}
 
-<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+{% assign is_profile = false %}
+
+{% if page.url == '/about/' %}
+  {% assign is_profile = true %}
+{% elsif page.url contains '/people/' and page.url != '/people/' %}
+  {% assign is_profile = true %}
+{% endif %}
+
+<main class="{% if page.full-width %}container-fluid{% else %}container-md{% endif %}
+             {% if page.url == '/people/' %}people-page{% endif %}
+             {% if is_profile %}profile-page{% endif %}">
   <div class="row">
-    <div class="{% if page.full-width %} col {% else %} col-xl-12 col-lg-12 {% endif %}">
+    <div class="{% if page.full-width %}col{% else %}col-xl-12 col-lg-12{% endif %}">
       {% if page.before-content %}
         <div class="before-content">
           {% for file in page.before-content %}
@@ -45,18 +55,29 @@ layout: base
     list-style-type: none;
   }
 
-  .info-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-}
+  .people-page {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
 
-.avatar img{
-  max-width: 200px;
-}
+  .profile-page {
+    max-width: 1050px;
+    margin: 0 auto;
+  }
 
-@media (max-width: 768px) {
   .info-container {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    column-gap: 60px;
+    align-items: start;
+  }
+
+  .avatar img{
+    max-width: 200px;
+  }
+
+  @media (max-width: 768px) {
+    .info-container {
     grid-template-columns: 1fr;
   }
 
@@ -65,5 +86,5 @@ layout: base
     margin: 0 auto; /* Centers the image horizontally */
     max-width: 150px; /* Keeps the existing max-width */
   }
-}
+  }
 </style>
